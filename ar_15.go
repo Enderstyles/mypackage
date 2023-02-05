@@ -34,5 +34,5 @@ func ChangeScope(ar *Ar, zoom int) {
 		ar.Scope_zoom = zoom
 		return
 	}
-	fmt.Println("Error: You dont have scope")
+	fmt.Println("Error: You dont have scope!!!")
 }

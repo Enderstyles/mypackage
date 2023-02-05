@@ -1,6 +1,5 @@
 package mypackage
 
-
 type Pc struct{
 	Cpu_name string 
 	Gpu_name string
